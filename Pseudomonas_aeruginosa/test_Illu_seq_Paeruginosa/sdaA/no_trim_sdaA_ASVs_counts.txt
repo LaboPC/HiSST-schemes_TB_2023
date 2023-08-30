@@ -1,0 +1,7 @@
+BWD-25-0280-sdaA	WF-HWSs-0049-sdaA	BF-HWSs-0021-sdaA
+ASV_sdaA_1	0	1571	1705
+ASV_sdaA_2	527	0	0
+ASV_sdaA_3	36	0	0
+ASV_sdaA_4	34	0	0
+ASV_sdaA_5	29	0	0
+ASV_sdaA_6	21	0	0

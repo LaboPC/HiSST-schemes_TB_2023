@@ -1,0 +1,5 @@
+Samples	ASV_yvoA_1	ASV_yvoA_2
+1	2-009-0339-St-yvoA	709	0
+2	2-009-0345-St-yvoA	463	0
+3	BF-25-0308-St-yvoA	0	554
+4	WF-25-0224-St-yvoA	0	492

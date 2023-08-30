@@ -1,0 +1,3 @@
+ASV	Taxonomy	Percent_identity
+1	ASV_glnG_1	Stenotrophomonas_maltophilia_SST-29	100
+2	ASV_glnG_2	Stenotrophomonas_sp.	99.625

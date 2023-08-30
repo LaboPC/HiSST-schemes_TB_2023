@@ -1,0 +1,5 @@
+Samples	ASV_tycC_1	ASV_tycC_2	ASV_tycC_3
+1	2-009-0339-St-tycC	846	0	52
+2	2-009-0345-St-tycC	471	0	35
+3	BF-25-0308-St-tycC	0	544	0
+4	WF-25-0224-St-tycC	0	375	0

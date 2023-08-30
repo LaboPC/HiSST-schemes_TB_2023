@@ -1,0 +1,3 @@
+2-009-0339-St-glnG	2-009-0345-St-glnG	WF-25-0224-St-glnG	BF-25-0308-St-glnG
+ASV_glnG_1	302	463	0	0
+ASV_glnG_2	0	0	328	354

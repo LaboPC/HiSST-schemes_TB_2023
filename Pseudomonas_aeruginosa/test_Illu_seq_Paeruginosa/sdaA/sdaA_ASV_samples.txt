@@ -1,0 +1,4 @@
+Samples	ASV_sdaA_1	ASV_sdaA_2	ASV_sdaA_3	ASV_sdaA_4	ASV_sdaA_5	ASV_sdaA_6
+1	BF-HWSs-0021-sdaA	1705	0	0	0	0	0
+2	WF-HWSs-0049-sdaA	1571	0	0	0	0	0
+3	BWD-25-0280-sdaA	0	527	36	34	29	21

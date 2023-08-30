@@ -1,0 +1,10 @@
+ASV_glnG_1	Stenotrophomonas_maltophilia_SST-29	100.000	269	0	0	1	269	1	269	5.24e-143	497
+ASV_glnG_1	Stenotrophomonas_maltophilia_SST-23	99.257	269	2	0	1	269	1	269	1.13e-139	486
+ASV_glnG_1	Stenotrophomonas_maltophilia_SST-26	99.251	267	2	0	3	269	3	269	1.47e-138	483
+ASV_glnG_1	Stenotrophomonas_maltophilia_SST-27	98.885	269	3	0	1	269	1	269	5.27e-138	481
+ASV_glnG_1	Stenotrophomonas_sp.	94.052	269	16	0	1	269	1	269	2.52e-116	409
+ASV_glnG_2	Stenotrophomonas_sp.	99.625	267	1	0	3	269	1	267	3.15e-140	488
+ASV_glnG_2	Stenotrophomonas_maltophilia_SST-32	97.753	267	6	0	3	269	3	269	6.87e-132	460
+ASV_glnG_2	Stenotrophomonas_maltophilia_SST-15	97.753	267	6	0	3	269	3	269	6.87e-132	460
+ASV_glnG_2	Stenotrophomonas_sp.	97.378	267	7	0	3	269	3	269	3.20e-130	455
+ASV_glnG_2	Stenotrophomonas_maltophilia_SST-30	97.004	267	8	0	3	269	3	269	1.49e-128	449

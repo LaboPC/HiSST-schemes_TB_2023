@@ -1,0 +1,5 @@
+ASV	Taxonomy	Percent_identity
+1	ASV_pheT_1	Pseudomonas_aeruginosa_SST-64, Pseudomonas_aeruginosa_SST-58	98.283
+2	ASV_pheT_2	Pseudomonas_aeruginosa_SST-34	100
+3	ASV_pheT_3	Pseudomonas_aeruginosa_SST-9	100
+4	ASV_pheT_4	Pseudomonas_aeruginosa_SST-39, Pseudomonas_aeruginosa_SST-34	99.571

@@ -1,0 +1,8 @@
+Create data base for BLASTn:
+-----------------------------
+
+1. In the command prompt, go to your director file (e.g., ~/Example_Create_Smaltophilia_database/Step5_BLAST_db/Create_yvoA_db/db_nt_yvoA)
+
+
+2. Run this command:
+$ makeblastdb -in 3_db_nt_yvoA_no_primers.fasta -dbtype nucl -out db_nt_yvoA

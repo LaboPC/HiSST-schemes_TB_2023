@@ -1,0 +1,5 @@
+Samples	ASV_ribA_1	ASV_ribA_2
+1	WF-25-0224-St-ribA	650	0
+2	BF-25-0308-St-ribA	620	0
+3	2-009-0339-St-ribA	0	626
+4	2-009-0345-St-ribA	0	615

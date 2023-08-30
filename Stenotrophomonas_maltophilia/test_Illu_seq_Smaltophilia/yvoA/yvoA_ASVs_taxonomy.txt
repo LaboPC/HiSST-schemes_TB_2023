@@ -1,0 +1,3 @@
+ASV	Taxonomy	Percent_identity
+1	ASV_yvoA_1	Stenotrophomonas_maltophilia_SST-25	100
+2	ASV_yvoA_2	Stenotrophomonas_sp., Stenotrophomonas_sp.	98.477

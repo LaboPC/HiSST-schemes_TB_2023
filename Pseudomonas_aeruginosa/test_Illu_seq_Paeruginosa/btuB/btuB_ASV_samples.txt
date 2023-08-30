@@ -1,0 +1,4 @@
+Samples	ASV_btuB_1	ASV_btuB_2	ASV_btuB_3	ASV_btuB_4
+1	BF-HWSs-0021-btuB	1587	0	0	0
+2	WF-HWSs-0049-btuB	1211	0	0	0
+3	BWD-25-0280-btuB	0	421	89	23

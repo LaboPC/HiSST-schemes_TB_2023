@@ -1,0 +1,5 @@
+Samples	ASV_glnG_1	ASV_glnG_2
+1	2-009-0345-St-glnG	463	0
+2	2-009-0339-St-glnG	302	0
+3	BF-25-0308-St-glnG	0	354
+4	WF-25-0224-St-glnG	0	328

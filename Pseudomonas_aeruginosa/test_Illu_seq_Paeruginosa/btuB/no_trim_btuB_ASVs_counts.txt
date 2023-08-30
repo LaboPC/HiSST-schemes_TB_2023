@@ -1,0 +1,5 @@
+BWD-25-0280-btuB	BF-HWSs-0021-btuB	WF-HWSs-0049-btuB
+ASV_btuB_1	0	1587	1211
+ASV_btuB_2	421	0	0
+ASV_btuB_3	89	0	0
+ASV_btuB_4	23	0	0

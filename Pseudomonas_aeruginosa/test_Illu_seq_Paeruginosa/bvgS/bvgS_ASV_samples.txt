@@ -1,0 +1,4 @@
+Samples	ASV_bvgS_1	ASV_bvgS_2	ASV_bvgS_3	ASV_bvgS_4	ASV_bvgS_5
+1	WF-HWSs-0049-bvgS	2271	0	0	0	0
+2	BF-HWSs-0021-bvgS	1806	0	0	0	0
+3	BWD-25-0280-bvgS	0	694	33	26	24

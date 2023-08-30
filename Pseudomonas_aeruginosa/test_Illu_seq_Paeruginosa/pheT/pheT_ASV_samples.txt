@@ -1,0 +1,4 @@
+Samples	ASV_pheT_1	ASV_pheT_2	ASV_pheT_3	ASV_pheT_4
+1	WF-HWSs-0049-pheT	2292	0	0	0
+2	BF-HWSs-0021-pheT	1981	0	0	0
+3	BWD-25-0280-pheT	0	434	89	55

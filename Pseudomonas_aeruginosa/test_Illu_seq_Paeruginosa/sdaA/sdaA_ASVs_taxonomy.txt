@@ -1,0 +1,7 @@
+ASV	Taxonomy	Percent_identity
+1	ASV_sdaA_1	Pseudomonas_sp., Pseudomonas_aeruginosa_SST-4	100
+2	ASV_sdaA_2	Pseudomonas_aeruginosa_SST-5	100
+3	ASV_sdaA_3	Pseudomonas_sp., Pseudomonas_aeruginosa_SST-21	100
+4	ASV_sdaA_4	Pseudomonas_aeruginosa_SST-34	99.652
+5	ASV_sdaA_5	Pseudomonas_aeruginosa_SST-5	99.303
+6	ASV_sdaA_6	Pseudomonas_aeruginosa_SST-54, Pseudomonas_aeruginosa_SST-3	99.652

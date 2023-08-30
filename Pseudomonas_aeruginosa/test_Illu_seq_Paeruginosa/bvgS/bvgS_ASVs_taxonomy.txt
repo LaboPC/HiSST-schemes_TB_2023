@@ -1,0 +1,6 @@
+ASV	Taxonomy	Percent_identity
+1	ASV_bvgS_1	Pseudomonas_aeruginosa_SST-3	100
+2	ASV_bvgS_2	Pseudomonas_fluorescens, Pseudomonas_aeruginosa_SST-2, Pseudomonas_aeruginosa_SST-28	100
+3	ASV_bvgS_3	Pseudomonas_aeruginosa_SST-21	100
+4	ASV_bvgS_4	Pseudomonas_aeruginosa_SST-12	97.445
+5	ASV_bvgS_5	Pseudomonas_fluorescens, Pseudomonas_aeruginosa_SST-33, Pseudomonas_aeruginosa_SST-28, Pseudomonas_aeruginosa_SST-9, Pseudomonas_aeruginosa_SST-2	97.358

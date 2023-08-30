@@ -1,0 +1,4 @@
+Samples	ST
+BWD-25-0280-sdaA	SST-5
+WF-HWSs-0049-sdaA	SST-4
+BF-HWSs-0021-sdaA	SST-4

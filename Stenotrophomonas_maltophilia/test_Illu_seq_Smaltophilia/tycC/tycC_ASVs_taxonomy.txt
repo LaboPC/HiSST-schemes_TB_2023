@@ -1,0 +1,4 @@
+ASV	Taxonomy	Percent_identity
+1	ASV_tycC_1	Stenotrophomonas_maltophilia_SST-25	100
+2	ASV_tycC_2	Stenotrophomonas_sp.	99.517
+3	ASV_tycC_3	Stenotrophomonas_maltophilia_SST-25	99.034

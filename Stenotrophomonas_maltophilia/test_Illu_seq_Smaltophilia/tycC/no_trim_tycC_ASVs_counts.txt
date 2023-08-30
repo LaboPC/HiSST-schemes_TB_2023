@@ -1,0 +1,4 @@
+2-009-0339-St-tycC	2-009-0345-St-tycC	WF-25-0224-St-tycC	BF-25-0308-St-tycC
+ASV_tycC_1	846	471	0	0
+ASV_tycC_2	0	0	375	544
+ASV_tycC_3	52	35	0	0

@@ -1,0 +1,10 @@
+ASV_ribA_1	Stenotrophomonas_sp.	99.313	291	2	0	1	291	1	291	1.24e-152	527
+ASV_ribA_1	Stenotrophomonas_sp.	93.448	290	19	0	2	291	2	291	1.00e-123	431
+ASV_ribA_1	Stenotrophomonas_maltophilia_SST-25	93.448	290	19	0	2	291	2	291	1.00e-123	431
+ASV_ribA_1	Stenotrophomonas_maltophilia_SST-4	93.056	288	20	0	1	288	1	288	6.04e-121	422
+ASV_ribA_1	Stenotrophomonas_sp.	92.759	290	21	0	2	291	2	291	2.17e-120	420
+ASV_ribA_2	Stenotrophomonas_maltophilia_SST-23	100.000	291	0	0	1	291	1	291	5.74e-156	538
+ASV_ribA_2	Stenotrophomonas_sp.	99.656	291	1	0	1	291	1	291	2.67e-154	532
+ASV_ribA_2	Stenotrophomonas_maltophilia_SST-24	99.656	291	1	0	1	291	1	291	2.67e-154	532
+ASV_ribA_2	Stenotrophomonas_maltophilia_SST-9	99.656	291	1	0	1	291	1	291	2.67e-154	532
+ASV_ribA_2	Stenotrophomonas_maltophilia_SST-26	98.625	291	4	0	1	291	1	291	2.69e-149	516

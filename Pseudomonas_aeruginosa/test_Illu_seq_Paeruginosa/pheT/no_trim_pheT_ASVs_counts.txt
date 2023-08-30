@@ -1,0 +1,5 @@
+BWD-25-0280-pheT	BF-HWSs-0021-pheT	WF-HWSs-0049-pheT
+ASV_pheT_1	0	1981	2292
+ASV_pheT_2	434	0	0
+ASV_pheT_3	89	0	0
+ASV_pheT_4	55	0	0

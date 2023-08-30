@@ -1,0 +1,3 @@
+2-009-0339-St-ribA	2-009-0345-St-ribA	WF-25-0224-St-ribA	BF-25-0308-St-ribA
+ASV_ribA_1	0	0	650	620
+ASV_ribA_2	626	615	0	0

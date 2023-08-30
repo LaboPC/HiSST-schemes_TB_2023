@@ -1,0 +1,5 @@
+ASV	Taxonomy	Percent_identity
+1	ASV_btuB_1	Pseudomonas_aeruginosa_SST-47, Pseudomonas_aeruginosa_SST-43	99.655
+2	ASV_btuB_2	Pseudomonas_aeruginosa_SST-17	100
+3	ASV_btuB_3	Pseudomonas_aeruginosa_SST-26	100
+4	ASV_btuB_4	Pseudomonas_aeruginosa_SST-30	100

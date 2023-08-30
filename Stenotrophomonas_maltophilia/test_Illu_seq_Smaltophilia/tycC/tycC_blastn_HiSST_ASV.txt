@@ -1,0 +1,15 @@
+ASV_tycC_1	Stenotrophomonas_maltophilia_SST-25	100.000	207	0	0	1	207	1	207	5.07e-109	383
+ASV_tycC_1	Stenotrophomonas_maltophilia_SST-22	99.517	207	1	0	1	207	1	207	2.36e-107	377
+ASV_tycC_1	Stenotrophomonas_maltophilia_SST-23	99.034	207	2	0	1	207	1	207	1.10e-105	372
+ASV_tycC_1	Stenotrophomonas_maltophilia_SST-9	99.034	207	2	0	1	207	1	207	1.10e-105	372
+ASV_tycC_1	Stenotrophomonas_maltophilia_SST-30	96.135	207	8	0	1	207	1	207	1.11e-95	339
+ASV_tycC_2	Stenotrophomonas_sp.	99.517	207	1	0	1	207	1	207	2.36e-107	377
+ASV_tycC_2	Stenotrophomonas_sp.	98.068	207	4	0	1	207	1	207	2.38e-102	361
+ASV_tycC_2	Stenotrophomonas_maltophilia_SST-13	98.068	207	4	0	1	207	1	207	2.38e-102	361
+ASV_tycC_2	Stenotrophomonas_maltophilia_SST-5	98.068	207	4	0	1	207	1	207	2.38e-102	361
+ASV_tycC_2	Stenotrophomonas_sp.	97.585	207	5	0	1	207	1	207	1.11e-100	355
+ASV_tycC_3	Stenotrophomonas_maltophilia_SST-25	99.034	207	2	0	1	207	1	207	1.10e-105	372
+ASV_tycC_3	Stenotrophomonas_maltophilia_SST-22	98.551	207	3	0	1	207	1	207	5.11e-104	366
+ASV_tycC_3	Stenotrophomonas_maltophilia_SST-23	98.068	207	4	0	1	207	1	207	2.38e-102	361
+ASV_tycC_3	Stenotrophomonas_maltophilia_SST-9	98.068	207	4	0	1	207	1	207	2.38e-102	361
+ASV_tycC_3	Stenotrophomonas_maltophilia_SST-30	95.652	207	9	0	1	207	1	207	5.18e-94	333

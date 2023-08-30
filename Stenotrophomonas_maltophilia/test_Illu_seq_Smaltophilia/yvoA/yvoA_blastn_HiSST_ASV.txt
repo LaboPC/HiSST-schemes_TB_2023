@@ -1,0 +1,10 @@
+ASV_yvoA_1	Stenotrophomonas_maltophilia_SST-25	100.000	197	0	0	1	197	1	197	3.98e-104	364
+ASV_yvoA_1	Stenotrophomonas_maltophilia_SST-24	98.985	197	2	0	1	197	1	197	8.62e-101	353
+ASV_yvoA_1	Stenotrophomonas_maltophilia_SST-10	98.477	197	3	0	1	197	1	197	4.01e-99	348
+ASV_yvoA_1	Stenotrophomonas_maltophilia_SST-27	97.970	197	4	0	1	197	1	197	1.87e-97	342
+ASV_yvoA_1	Stenotrophomonas_maltophilia_SST-23	97.970	197	4	0	1	197	1	197	1.87e-97	342
+ASV_yvoA_2	Stenotrophomonas_sp.	98.477	197	3	0	1	197	1	197	4.01e-99	348
+ASV_yvoA_2	Stenotrophomonas_sp.	98.477	197	3	0	1	197	1	197	4.01e-99	348
+ASV_yvoA_2	Stenotrophomonas_maltophilia_SST-30	97.462	197	5	0	1	197	1	197	8.68e-96	337
+ASV_yvoA_2	Stenotrophomonas_maltophilia_SST-8	96.970	198	4	2	1	197	1	197	4.04e-94	331
+ASV_yvoA_2	Stenotrophomonas_maltophilia_SST-5	95.960	198	6	2	1	197	1	197	8.74e-91	320
