@@ -3,11 +3,11 @@ HiSST scheme databases and R-scripts used for opportunistic pathogens pure cultu
 
 ### Bioinformatical pipeline for HiSST analysis:
 Originate from dada2 pipeline (https://benjjneb.github.io/dada2/index.html) and was adapted for HiSST schemes analysis, including additional steps to enhance the accuracy of taxonomic assignment. 
-The entire process can be executed with the R script [Script_RUN_FunHiSSTDada2.R](https://github.com/LaboPC/HiSST-schemes_TB_2023/blob/main/Script_RUN_FunHiSSTDada2.R), using a unified function called "FunHiSSTDada2.R".
+The entire process can be executed with the R script [Script_RUN_FunHiSSTDada2.R](https://github.com/LaboPC/HiSST-schemes_TB_2023/blob/main/Script_RUN_FunHiSSTDada2.R), using a unified function called [FunHiSSTDada2.R](https://github.com/LaboPC/HiSST-schemes_TB_2023/blob/main/FunHiSSTDada2.R).
 
 # HiSST scheme for _Serratia marcescens_ :
 
-The databases for each locus are available in the "Serratia_marcescens" directory file.
+The databases for each locus are available in the [Serratia_marcescens](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Serratia_marcescens) directory file.
 
 - R-scripts used to develop, test and validate the HiSST scheme for _Serratia marcescens_ are available at https://github.com/TBourd/R_scripts_for_HiSST_scheme
 
@@ -19,10 +19,14 @@ The databases for each locus are available in the "Serratia_marcescens" director
 
 # HiSST scheme for _Pseudomonas aeruginosa_ :
 
+The databases for each locus are available in the [Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa) directory file.
+
 > Description will be available soon
 
 
 # HiSST scheme for _Stenotrophomonas maltophilia_ :
+
+The databases for each locus are available in the [Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia) directory file.
 
 > Description will be available soon
 
