@@ -2,7 +2,7 @@
 HiSST scheme databases and R-scripts used for opportunistic pathogens pure culture and environmental DNA survey, using the Illumina next-generation sequencing (NGS) method.
 
 ### Bioinformatical pipeline for HiSST analysis:
-Originate from [dada2 pipeline](https://benjjneb.github.io/dada2/index.html) and was adapted for HiSST schemes analysis, including additional steps to enhance the accuracy of taxonomic assignment. 
+Originate from [DADA2 pipeline](https://benjjneb.github.io/dada2/index.html) and was adapted for HiSST schemes analysis, including additional steps to enhance the accuracy of taxonomic assignment. 
 The entire process can be executed with the R script [Script_RUN_FunHiSSTDada2.R](https://github.com/LaboPC/HiSST-schemes_TB_2023/blob/main/Script_RUN_FunHiSSTDada2.R), using a unified function called [FunHiSSTDada2.R](https://github.com/LaboPC/HiSST-schemes_TB_2023/blob/main/FunHiSSTDada2.R).
 
 # HiSST scheme for _Serratia marcescens_ :
