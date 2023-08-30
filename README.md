@@ -22,7 +22,7 @@ The databases for each locus are available in the [Serratia_marcescens](https://
 
 # HiSST scheme for _Pseudomonas aeruginosa_ :
 
-The [Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa) directory contains locus databases, comprising:
+The [Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa) directory contains the HiSST scheme databases, comprising:
 
 - "Pseudomonas_DataBase HiSST.xlsx": HiSST scheme database for the short sequence types (SSTs) of _btuB_, _bvgS_, _pheT_ and _sdaA_ loci.
 - "version_HiSSTprofiles-Pa.txt": Table mapping HiSST profiles to their SSTs.
@@ -38,7 +38,7 @@ The [Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tre
 
 # HiSST scheme for _Stenotrophomonas maltophilia_ :
 
-The [Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia) directory contains locus databases, comprising:
+The [Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia) directory contains the HiSST scheme databases, comprising:
 
 - "Stenotrophomonas_DataBase HiSST.xlsx": HiSST scheme database for the short sequence types (SSTs) of _yvoA_, _glnG_, _tycC_ and _ribA_ loci.
 - "version_HiSST-ST_database.txt": Table mapping HiSST profiles to their SSTs.
