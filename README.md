@@ -27,30 +27,36 @@ The [Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tre
 - "version_HiSSTprofiles-Pa.txt": Table mapping HiSST profiles to their SSTs.
 - The [dbHiSST_Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa/dbHiSST_Pseudomonas_aeruginosa) folder:
   - Locus databases used in the HiSST-dada2 pipeline (see [above](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main#bioinformatical-pipeline-for-hisst-analysis)).
-  - Five R Scripts to create _P. aeruginosa_ HiSST database.
-  - "Example_Create_Paeruginosa_database" folder with initial locus database creation steps.
+  - Five R Scripts to create _P. aeruginosa_ HiSST database in five steps (plus an optional script to remove primers if necessary).
+  - [Example_Create_Paeruginosa_database](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa/dbHiSST_Pseudomonas_aeruginosa/Example_Create_Paeruginosa_database) folder with initial locus database creation steps.
 - The [test_Illu_seq_Paeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa/test_Illu_seq_Paeruginosa) folder: HiSST-dada2 pipeline example using real Illumina Miseq data for each HiSST locus.
 
 ###### If you use this HiSST scheme in your research, please cite :
-> Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for Pseudomonas aeruginosa and Stenotrophomonas maltophilia pure culture and environmental DNA.
+> Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA.
 
 
 # HiSST scheme for _Stenotrophomonas maltophilia_ :
 
-The databases for each locus are available in the [Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia) directory file.
+The [Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia) directory contains locus databases, comprising:
 
-
+- "Stenotrophomonas_DataBase HiSST.xlsx": HiSST scheme database for the short sequence types (SSTs) of _yvoA_, _glnG_, _tycC_ and _ribA_ loci.
+- "version_HiSST-ST_database.txt": Table mapping HiSST profiles to their SSTs.
+- The [dbHiSST_Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia/dbHiSST_Stenotrophomonas_maltophilia) folder:
+  - Locus databases used in the HiSST-dada2 pipeline (see [above](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main#bioinformatical-pipeline-for-hisst-analysis)).
+  - Five R Scripts to create _S. maltophilia_ HiSST database in five steps (plus an optional script to remove primers if necessary).
+  - [Example_Create_Smaltophilia_database](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia/dbHiSST_Stenotrophomonas_maltophilia/Example_Create_Smaltophilia_database) folder with initial locus database creation steps.
+- The [test_Illu_seq_Smaltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia/test_Illu_seq_Smaltophilia) folder: HiSST-dada2 pipeline example using real Illumina Miseq data for each HiSST locus.
 
 ###### If you use this HiSST scheme in your research, please cite :
-> Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for Pseudomonas aeruginosa and Stenotrophomonas maltophilia pure culture and environmental DNA.
+> Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA.
 
  _______________________________________________________
 
 # Publications
 
  
-- Bourdin T, Monnier A, Benoit MÈ, Bédard E, Prévost M, Quach C, Déziel E, Constant P. 2021. A High-Throughput Short Sequence Typing Scheme for Serratia marcescens Pure Culture and Environmental DNA. Appl Environ Microbiol. DOI: https://doi.org/10.1128/AEM.01399-21
+- Bourdin T, Monnier A, Benoit MÈ, Bédard E, Prévost M, Quach C, Déziel E, Constant P. 2021. A High-Throughput Short Sequence Typing Scheme for _Serratia marcescens_ Pure Culture and Environmental DNA. Appl Environ Microbiol. DOI: https://doi.org/10.1128/AEM.01399-21
 
-- Bourdin T, Benoit M-È, Monnier A, Bédard E, Prévost M, Charron D, Audy N, Gravel S, Sicard M, Quach C, Déziel E, Constant P. 2023. Serratia marcescens Colonization in a Neonatal Intensive Care Unit Has Multiple Sources, with Sink Drains as a Major Reservoir. Applied and Environmental Microbiology 89:e00105-23. DOI: https://doi.org/10.1128/aem.00105-23
+- Bourdin T, Benoit M-È, Monnier A, Bédard E, Prévost M, Charron D, Audy N, Gravel S, Sicard M, Quach C, Déziel E, Constant P. 2023. _Serratia marcescens_ Colonization in a Neonatal Intensive Care Unit Has Multiple Sources, with Sink Drains as a Major Reservoir. Applied and Environmental Microbiology 89:e00105-23. DOI: https://doi.org/10.1128/aem.00105-23
 
-- Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for Pseudomonas aeruginosa and Stenotrophomonas maltophilia pure culture and environmental DNA.
+- Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA.
