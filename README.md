@@ -6,9 +6,7 @@ Originate from [DADA2 pipeline](https://benjjneb.github.io/dada2/index.html) and
 The entire process can be executed with the R script [Script_RUN_FunHiSSTDada2.R](https://github.com/LaboPC/HiSST-schemes_TB_2023/blob/main/Script_RUN_FunHiSSTDada2.R), using a unified function called [FunHiSSTDada2.R](https://github.com/LaboPC/HiSST-schemes_TB_2023/blob/main/FunHiSSTDada2.R).
 
 The pipeline involved these steps: (i) Processed raw sequencing reads using [Cutadapt](https://cutadapt.readthedocs.io/en/stable/) to remove primers, (ii) Applied default [DADA2](https://github.com/benjjneb/dada2) settings for error correction, denoising, and paired-end merging, (iii) Filtered DNA sequences with BLASTn to eliminate non-specific ASVs, (iv) Generated "LOCUS_ASV_samples.txt" for Jaccard dendrograms, and (v) Created "Samples_and_ASV-ST.txt" if HiSST database update required.
-
-
-
+_________________________________
 
 # HiSST scheme for _Serratia marcescens_ :
 
