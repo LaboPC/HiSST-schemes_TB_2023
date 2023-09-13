@@ -27,7 +27,7 @@ The [Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tre
 - "Pseudomonas_DataBase HiSST.xlsx": HiSST scheme database for the short sequence types (SSTs) of _btuB_, _bvgS_, _pheT_ and _sdaA_ loci.
 - "version_HiSSTprofiles-Pa.txt": Table mapping HiSST profiles to their SSTs.
 - The [dbHiSST_Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa/dbHiSST_Pseudomonas_aeruginosa) folder:
-  - Locus databases used in the HiSST-dada2 pipeline (see [above](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main#bioinformatical-pipeline-for-hisst-analysis)).
+  - Locus databases used in the HiSST-dada2 pipeline (see [above](https://github.com/LaboPC/HiSST-schemes_TB/tree/main#hisst-dada2-pipeline--bioinformatical-pipeline-for-hisst-analysis)).
   - Five R Scripts to create _P. aeruginosa_ HiSST database in five steps (plus an optional script to remove primers if necessary).
   - [Example_Create_Paeruginosa_database](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa/dbHiSST_Pseudomonas_aeruginosa/Example_Create_Paeruginosa_database) folder with initial locus database creation steps.
 - The [test_Illu_seq_Paeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa/test_Illu_seq_Paeruginosa) folder: HiSST-dada2 pipeline example using real Illumina Miseq data for each HiSST locus.
@@ -43,7 +43,7 @@ The [Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_20
 - "Stenotrophomonas_DataBase HiSST.xlsx": HiSST scheme database for the short sequence types (SSTs) of _yvoA_, _glnG_, _tycC_ and _ribA_ loci.
 - "version_HiSST-ST_database.txt": Table mapping HiSST profiles to their SSTs.
 - The [dbHiSST_Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia/dbHiSST_Stenotrophomonas_maltophilia) folder:
-  - Locus databases used in the HiSST-dada2 pipeline (see [above](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main#bioinformatical-pipeline-for-hisst-analysis)).
+  - Locus databases used in the HiSST-dada2 pipeline (see [above](https://github.com/LaboPC/HiSST-schemes_TB/tree/main#hisst-dada2-pipeline--bioinformatical-pipeline-for-hisst-analysis)).
   - Five R Scripts to create _S. maltophilia_ HiSST database in five steps (plus an optional script to remove primers if necessary).
   - [Example_Create_Smaltophilia_database](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia/dbHiSST_Stenotrophomonas_maltophilia/Example_Create_Smaltophilia_database) folder with initial locus database creation steps.
 - The [test_Illu_seq_Smaltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia/test_Illu_seq_Smaltophilia) folder: HiSST-dada2 pipeline example using real Illumina Miseq data for each HiSST locus.
