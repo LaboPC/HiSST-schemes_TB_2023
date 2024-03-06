@@ -17,7 +17,7 @@ The databases for each locus are available in the [Serratia_marcescens](https://
 - HiSST application example: R-scripts and data used for _Serratia marcescens_ colonizations survey, using the HiSST scheme, are available at https://github.com/TBourd/R_scripts_HiSST_SM-colonizations (see article: Bourdin et al., 2023)
 
 ###### If you use this HiSST scheme in your research, please cite :
-> Bourdin T, Monnier A, Benoit MÈ, Bédard E, Prévost M, Quach C, Déziel E, Constant P. A High-Throughput Short Sequence Typing Scheme for Serratia marcescens Pure Culture and Environmental DNA. Appl Environ Microbiol. 2021. DOI: https://doi.org/10.1128/AEM.01399-21
+> Bourdin T, Monnier A, Benoit MÈ, Bédard E, Prévost M, Quach C, Déziel E, Constant P. (2021) A High-Throughput Short Sequence Typing Scheme for Serratia marcescens Pure Culture and Environmental DNA. Appl Environ Microbiol. DOI: https://doi.org/10.1128/AEM.01399-21
 
 
 # HiSST scheme for _Pseudomonas aeruginosa_ :
@@ -33,7 +33,7 @@ The [Pseudomonas_aeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tre
 - The [test_Illu_seq_Paeruginosa](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Pseudomonas_aeruginosa/test_Illu_seq_Paeruginosa) folder: HiSST-dada2 pipeline example using real Illumina Miseq data for each HiSST locus.
 
 ###### If you use this HiSST scheme in your research, please cite :
-> Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA.
+> Bourdin, T., Benoit, M. È., Bédard, E., Prévost, M., Quach, C., Déziel, E., & Constant, P. (2023). High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA. Microorganisms, 12(1), 48. DOI: https://doi.org/10.3390/microorganisms12010048
 
 
 # HiSST scheme for _Stenotrophomonas maltophilia_ :
@@ -49,15 +49,16 @@ The [Stenotrophomonas_maltophilia](https://github.com/LaboPC/HiSST-schemes_TB_20
 - The [test_Illu_seq_Smaltophilia](https://github.com/LaboPC/HiSST-schemes_TB_2023/tree/main/Stenotrophomonas_maltophilia/test_Illu_seq_Smaltophilia) folder: HiSST-dada2 pipeline example using real Illumina Miseq data for each HiSST locus.
 
 ###### If you use this HiSST scheme in your research, please cite :
-> Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA.
+> Bourdin, T., Benoit, M. È., Bédard, E., Prévost, M., Quach, C., Déziel, E., & Constant, P. (2023). High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA. Microorganisms, 12(1), 48. DOI: https://doi.org/10.3390/microorganisms12010048
 
  _______________________________________________________
 
 # Publications
 
  
-- Bourdin T, Monnier A, Benoit MÈ, Bédard E, Prévost M, Quach C, Déziel E, Constant P. 2021. A High-Throughput Short Sequence Typing Scheme for _Serratia marcescens_ Pure Culture and Environmental DNA. Appl Environ Microbiol. DOI: https://doi.org/10.1128/AEM.01399-21
+- Bourdin T, Monnier A, Benoit MÈ, Bédard E, Prévost M, Quach C, Déziel E, Constant P. (2021). A High-Throughput Short Sequence Typing Scheme for _Serratia marcescens_ Pure Culture and Environmental DNA. Appl Environ Microbiol. DOI: https://doi.org/10.1128/AEM.01399-21
 
-- Bourdin T, Benoit M-È, Monnier A, Bédard E, Prévost M, Charron D, Audy N, Gravel S, Sicard M, Quach C, Déziel E, Constant P. 2023. _Serratia marcescens_ Colonization in a Neonatal Intensive Care Unit Has Multiple Sources, with Sink Drains as a Major Reservoir. Applied and Environmental Microbiology 89:e00105-23. DOI: https://doi.org/10.1128/aem.00105-23
+- Bourdin T, Benoit M-È, Monnier A, Bédard E, Prévost M, Charron D, Audy N, Gravel S, Sicard M, Quach C, Déziel E, Constant P. (2023). _Serratia marcescens_ Colonization in a Neonatal Intensive Care Unit Has Multiple Sources, with Sink Drains as a Major Reservoir. Applied and Environmental Microbiology 89:e00105-23. DOI: https://doi.org/10.1128/aem.00105-23
 
+- Bourdin, T., Benoit, M. È., Bédard, E., Prévost, M., Quach, C., Déziel, E., & Constant, P. (2023). High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA. Microorganisms, 12(1), 48. DOI: https://doi.org/10.3390/microorganisms12010048
 - Bourdin T, Benoit M-È, Bédard E, Prévost M, Quach C, Déziel E, Constant P. _Submitted for publication_. High-Throughput Short Sequence Typing Schemes for _Pseudomonas aeruginosa_ and _Stenotrophomonas maltophilia_ pure culture and environmental DNA.
